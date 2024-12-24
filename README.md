@@ -34,9 +34,7 @@ Welcome to the **Personal Expense Tracker**! This project is designed to help yo
 
 ### Steps to Start:
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
-   ```
+  
 2. Open the `index.html` file in your browser.
 3. Start tracking your expenses by filling out the form and submitting it.
 
@@ -81,7 +79,7 @@ Welcome to the **Personal Expense Tracker**! This project is designed to help yo
 ---
 
 ## 🙌 Let's Connect!
-- **GitHub**: ykoding
+- **GitHub**: workm9938
 - **Email**: workm9938@gmail.com
 
 ---
