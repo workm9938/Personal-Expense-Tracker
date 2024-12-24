@@ -35,3 +35,16 @@
 
 ## 📂 **Project Structure**
 
+---
+
+## 🚀 **Getting Started**
+
+Follow the steps below to run the project locally on your machine.
+
+### **Prerequisites**
+- A modern web browser (e.g., Google Chrome, Firefox).
+
+### **Steps**
+1. **Clone the repository**:  
+   ```bash
+   git clone https://github.com/yourusername/personal-expense-tracker.git
