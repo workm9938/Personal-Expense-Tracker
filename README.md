@@ -82,8 +82,8 @@ https://your-image-link.com/piechart.png](https://github.com/workm9938/Personal-
 ---
 
 ## 🙌 Let's Connect!
-- **GitHub**: [ykoding]
-- **Email**: [workm9938@gmail.com]
+- **GitHub**: ykoding
+- **Email**: workm9938@gmail.com
 
 ---
 
