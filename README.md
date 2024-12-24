@@ -28,10 +28,12 @@ A modern web application to track your personal expenses with style. Manage your
 🌟 Add Expenses
 An intuitive form lets you quickly log all your expenses.
 (Replace with actual screenshot link)
+---
 
 ##📊 Visualize Spending
 Interactive pie charts make analyzing your expenses a breeze.
 (Replace with actual screenshot link)
+------
 
 ##📂 Project Files
 index.html: The main HTML file containing the structure.
@@ -39,11 +41,11 @@ style.css: The stylesheet for layout, colors, and animations.
 script.js: The JavaScript file for application logic and chart rendering.
 README.md: Project documentation.
 
-
-##💌 Contact Me
+------
+##💌 Contact Me:
 Created with ❤️ by workm9938
 📧 Email: your-workm9938@gmail.com
 
-
+----------
 ##⭐ Show Your Support
 If you like this project, please consider giving it a ⭐ on GitHub. Contributions, feedback, and suggestions are always welcome!
