@@ -48,7 +48,7 @@ Welcome to the **Personal Expense Tracker**! This project is designed to help yo
 ![Expense Tracker Dashboard]([https://your-image-link.com/dashboard.png](https://github.com/workm9938/Personal-Expense-Tracker/blob/main/personal%20expense%20tracker.PNG?raw=true))
 
 ### 📊 Pie Chart
-![Interactive Expense Chart](https://your-image-link.com/piechart.png)
+![Interactive Expense Chart]([https://your-image-link.com/piechart.png](https://github.com/workm9938/Personal-Expense-Tracker/blob/main/personal%20expense%20tracker%201.PNG?raw=true))
 
 ---
 
