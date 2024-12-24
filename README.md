@@ -82,8 +82,8 @@ Welcome to the **Personal Expense Tracker**! This project is designed to help yo
 ---
 
 ## 🙌 Let's Connect!
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **GitHub**: [yourusername](ykoding)
+- **Email**: [your-email@example.com](workm9938@gmail.com)
 
 ---
 
